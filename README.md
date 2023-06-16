@@ -8,4 +8,4 @@ Do give them a read 🙃
 ## List of WriteUps
 
 1. [Tokenisation in Smart Contracts](/Tokenisation_in_Smart_Contracts.md)
-2. [Sturdy Protocol Hack](/SturdyFinanceHack.md)
+2. [Sturdy Protocol Hack](SturdyHack/SturdyExploit.md)
